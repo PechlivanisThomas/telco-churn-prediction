@@ -1,0 +1,18 @@
+# Don't upload data
+Data/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
